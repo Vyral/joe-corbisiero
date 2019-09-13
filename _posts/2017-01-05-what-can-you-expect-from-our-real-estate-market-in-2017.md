@@ -3,8 +3,11 @@ layout: post
 title: What Can You Expect From Our Real Estate Market in 2017?
 tags:
   - Market Update
-excerpt: There are a few important changes in store for our San Diego Market in 2017 that I want to talk about today.
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Joe+Corbisiero/San+Diego+Real+Estate+2017+Market+Prediction.mp4'
+excerpt: >-
+  There are a few important changes in store for our San Diego Market in 2017
+  that I want to talk about today.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Joe+Corbisiero/San+Diego+Real+Estate+2017+Market+Prediction.mp4
 pullquote: 'If you’re thinking about buying, do it sooner rather than later.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -12,7 +15,6 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: pgAEsfNsV4M
 ---
-
 
 {% include youtube.html %}
 
