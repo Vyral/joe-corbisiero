@@ -19,7 +19,7 @@ youtube_code: 82a_gM7_gtg
 
 {% include youtube.html %}
 
-The market is doing well right now, but what do rumors of a coming recession mean for its future? Let’s discuss
+<p style="text-align:center;"><em>The market is doing well right now, but what do rumors of a coming recession mean for its future? Let’s discuss</em></p>
 
 As some of you probably already know, I consider myself a lifelong student. Seeking out and absorbing the latest information on real estate, the economy, and the marketplace at large is a passion of mine, and I’d like to share just a few of the things I’ve learned recently with all of you.&nbsp;
 
