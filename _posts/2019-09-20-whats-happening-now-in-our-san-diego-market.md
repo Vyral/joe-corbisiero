@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Happening Now in Our San Diego Market?
-date: 2019-09-20 21:09:11
+date: 2019-09-20 21:09:00
 tags:
   - Market Update
 excerpt: >-
