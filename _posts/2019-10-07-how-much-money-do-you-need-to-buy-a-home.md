@@ -4,7 +4,6 @@ title: How Much Money Do You Need to Buy a Home?
 tags:
   - Market Update
   - Real Estate
-  - Buyer Tips
   - Home Seller Tips
 excerpt: How much money do you need to purchase a home? Find out today.
 enclosure: >-
@@ -19,7 +18,7 @@ youtube_code: 20xmxIfe6G4
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>How much money do you need to purchase a home? Find out today.</em></p>
+*How much money do you need to purchase a home? Find out today.*
 
 The median home price for single-family homes in San Diego is between $625,000 and $650,000, but you can still find homes in the $450,000 to $500,000 range. Though it might seem expensive, we’re actually somewhat cheaper than other places in California\!
 
