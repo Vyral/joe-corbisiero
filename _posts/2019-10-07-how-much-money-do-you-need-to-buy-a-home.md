@@ -24,7 +24,7 @@ The median home price for single-family homes in San Diego is between $625,000 a
 
 **How much will you actually need in order to buy a home in San Diego?**
 
-Lenders qualify homebuyers based on their debt-to-income ratio. Their limit is a 50% ratio, meaning that if you make $4,000 a month, you must be able to afford a $2,000 monthly payment. I think that really stretches peoples’ ability to afford a home, so I recommend finding a home whose payment would be around $1,600 (using the monthly income in my example). This way, you’ll have some financial padding to fall back on. You don’t want to be able to your home but be able to afford else on top of it\!
+Lenders qualify homebuyers based on their debt-to-income ratio. Their limit is a 50% ratio, meaning that if you make $4,000 a month, you must be able to afford a $2,000 monthly payment. I think that really stretches peoples’ ability to afford a home, so I recommend finding a home whose payment would be around $1,600 (using the monthly income in my example). This way, you’ll have some financial padding to fall back on. 
 
 {% include pullquote.html %}
 
