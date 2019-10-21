@@ -19,7 +19,7 @@ youtube_code: 60lESOgpCdo
 
 {% include youtube.html %}
 
-Want to maximize the profit from your home sale? Follow these three tips.&nbsp;
+<p style="text-align:center;"><em>Want to maximize the profit from your home sale? Follow these three tips.</em></p>
 
 As a home seller, there are three important tips you must remember if you want to maximize the profit from your sale.&nbsp;
 
