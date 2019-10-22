@@ -29,6 +29,6 @@ First, and most importantly, **showcase it in the best light possible.** Put you
 
 Next, **have your home staged.** Most sellers don’t know how to arrange their furniture when listing their home, so having yours professionally staged takes care of this problem for you. This is another service we offer on our team.&nbsp;
 
-Lasly, **have a professional photographer take photos and video of your home.** Video, especially, is the present and the future. People want to see videos of homes so they can get a good feel of how they flow from room to room. If your home features good video, buyers will show up to it already “sold.”
+Lastly, **have a professional photographer take photos and video of your home.** Video, especially, is the present and the future. People want to see videos of homes so they can get a good feel of how they flow from room to room. If your home features good video, buyers will show up to it already “sold.”
 
 If you’d like to know more about how to maximize your home sale or you have any other real estate questions, feel free to reach out to me. I’d love to speak with you.&nbsp;
