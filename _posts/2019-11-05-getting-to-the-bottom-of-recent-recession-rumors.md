@@ -19,7 +19,7 @@ youtube_code: FPgY_sj8uTE
 
 {% include youtube.html %}
 
-A recession may be coming, but this doesn’t mean real estate is also headed for a crash. Let’s discuss why this is the case today.
+<p style="text-align:center;"><em>A recession may be coming, but this doesn’t mean real estate is also headed for a crash. Let’s discuss why this is the case today.</em></p>
 
 There is a general consensus that we’re headed for a recession, but will this economic slowdown impact our real estate market?
 
