@@ -19,7 +19,7 @@ youtube_code: yKDPblPJGa0
 
 {% include youtube.html %}
 
-Our client appreciation event was a huge success. Here’s a closer look at all the fun we had.
+<p style="text-align:center;"><em>Our client appreciation event was a huge success. Here’s a closer look at all the fun we had.</em></p>
 
 Today we wanted to show you the fantastic Halloween event we hosted recently. Over 75 people joined us to enjoy free tacos, carnival rides, and our pumpkin patch. All of our new clients, past clients, and friends who were able to attend all had a great time. To get a look for yourself at how much fun we had and to hear from some of our team members and clients, watch this short video.
 
