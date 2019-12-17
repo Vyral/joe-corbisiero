@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/recession-youtube.jpg
-youtube_code: FPgY_sj8uTE
+youtube_code: wKwn9R2NwTE
 ---
 
 {% include youtube.html %}
