@@ -14,15 +14,14 @@ pullquote: >-
   motivated to make a sale.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+use_youtube_image: false
+youtube_alternate_image: /uploads/buy-during-the-holidays-youtube.jpg
+youtube_code: IlKrHAo1EV8
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>You can find a great deal on a home during the holidays. Here are five reasons why.</em></p>
-
+*You can find a great deal on a home during the holidays. Here are five reasons why.*
 
 Why wait for spring when the holiday months are the perfect time to buy a home? There are five reasons why a home purchase makes perfect sense during the holidays:
 
