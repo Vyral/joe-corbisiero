@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Reasons Why the Holidays Are the Time to Buy
-date:
+date: 2019-12-26 19:12:24
 tags:
   - Home Buyer Tips
 excerpt: >-
