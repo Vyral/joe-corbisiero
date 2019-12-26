@@ -21,7 +21,8 @@ youtube_code: IlKrHAo1EV8
 
 {% include youtube.html %}
 
-*You can find a great deal on a home during the holidays. Here are five reasons why.*
+<p style="text-align: center;"><em>You can find a great deal on a home during the holidays. Here are five reasons why.</em></p>
+
 
 Why wait for spring when the holiday months are the perfect time to buy a home? There are five reasons why a home purchase makes perfect sense during the holidays:
 
