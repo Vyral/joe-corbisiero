@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/buy-during-the-holidays-youtube.jpg
-youtube_code: pGSONyy7kkY
+youtube_code: t07XPC-tN9Q
 ---
 
 {% include youtube.html %}
