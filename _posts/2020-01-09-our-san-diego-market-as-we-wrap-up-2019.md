@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Our San Diego Market as We Wrap Up 2019
-date: 2020-01-09 19:14:27
+date: 2020-01-09 19:14:00
 tags:
   - Market Update
 excerpt: 'As we close out 2019, our San Diego real estate market is strong.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joe+Corbisiero/Our+San+Diego+Market+as+We+Wrap+Up+2019.mp4
 pullquote: Interest rates have dropped about 1% since 2018.
 enclosure_type: video/mp4
 enclosure_time:
