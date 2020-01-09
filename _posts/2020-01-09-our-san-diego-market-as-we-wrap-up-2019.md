@@ -17,7 +17,7 @@ youtube_code: yS2wGVaVvD4
 
 {% include youtube.html %}
 
-As we close out 2019, our San Diego real estate market is strong.
+<p style="text-align:center;"><em>As we close out 2019, our San Diego real estate market is strong.</em></p>
 
 What’s the latest news from our San Diego market as we wrap up 2019? Where do things stand compared to last year?&nbsp;
 
