@@ -23,7 +23,7 @@ What’s the latest news from our San Diego market as we wrap up 2019? Where do 
 
 Interest rates have dropped about 1% since 2018, and **this has boosted homeownership and made people more confident in buying a home.** Last winter, this confidence simply wasn’t there.&nbsp;
 
-As a result, sales for detached single-family homes have risen about 5.7%. Prices have risen about 5.7% for detached single-family homes, as well. Condos and townhomes, on the other hand, have been suffering a bit. As I said, interest rates are very low, and this has caused buyers who’d normally buy a condo or townhome before buying a detached home skip this step entirely.&nbsp;
+As a result, sales for detached single-family homes have risen about 5.7%. Prices have risen about 5.7% for detached single-family homes as well. Condos and townhomes, on the other hand, have been suffering a bit. As I said, interest rates are very low, and this has caused buyers who’d normally buy a condo or townhome before buying a detached home skip this step entirely.&nbsp;
 
 {% include pullquote.html %}
 
