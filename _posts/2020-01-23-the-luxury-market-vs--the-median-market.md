@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Luxury Market vs. the Median Market
-date:
+date: 2020-01-23 22:23:49
 tags:
   - Real Estate
   - Home Buyer Tips
