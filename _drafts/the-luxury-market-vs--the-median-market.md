@@ -16,8 +16,8 @@ pullquote: There are still a lot of homes selling in the median market.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+youtube_alternate_image: /uploads/luxury-vs-median-youtube.jpg
+youtube_code: iRlBF9jxxG0
 ---
 
 {% include youtube.html %}
