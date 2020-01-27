@@ -22,7 +22,7 @@ youtube_code: iRlBF9jxxG0
 
 {% include youtube.html %}
 
-*What’s the difference between the luxury and the median real estate markets? Here’s what you need to know.*
+<p style="text-align: center;"><em>What’s the difference between the luxury and the median real estate markets? Here’s what you need to know.</em></p>
 
 Today we’re taking a look at both the luxury market in San Diego and the market that includes median-priced homes. These are two completely different markets, especially during this time of year.
 
