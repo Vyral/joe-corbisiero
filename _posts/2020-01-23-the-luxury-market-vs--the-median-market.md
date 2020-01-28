@@ -16,13 +16,13 @@ pullquote: There are still a lot of homes selling in the median market.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/luxury-vs-median-youtube.jpg
+youtube_alternate_image: /uploads/newunnamed-youtube-4.jpg
 youtube_code: iRlBF9jxxG0
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>What’s the difference between the luxury and the median real estate markets? Here’s what you need to know.</em></p>
+*What’s the difference between the luxury and the median real estate markets? Here’s what you need to know.*
 
 Today we’re taking a look at both the luxury market in San Diego and the market that includes median-priced homes. These are two completely different markets, especially during this time of year.
 
