@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Housing Market in San Diego update
+title: Housing Market in San Diego Update
 date: 2020-01-23 22:23:00
 tags:
   - Real Estate
