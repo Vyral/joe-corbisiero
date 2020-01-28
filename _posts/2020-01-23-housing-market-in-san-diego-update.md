@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Luxury Housing Market vs. the Median Housing Market
+title: Housing Market in San Diego update
 date: 2020-01-23 22:23:00
 tags:
   - Real Estate
@@ -22,7 +22,7 @@ youtube_code: iRlBF9jxxG0
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>What’s the difference between the luxury and the median real estate markets? Here’s what you need to know.</em></p>
+*What’s the difference between the luxury and the median real estate markets? Here’s what you need to know.*
 
 Today we’re taking a look at both the luxury housing market in San Diego and the housing market that includes median-priced homes. These are two completely different housing markets, especially during this time of year.
 
