@@ -19,7 +19,7 @@ youtube_code: SYyqfCQCr84
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>By the end of today’s crash course, you’ll know how to jump into real estate investment. Here’s what to do.</em></p>
+<p style="text-align: center;"><em>If you want additional income, real estate investment may be for you. Here’s what to do.</em></p>
 
 
 If you’ve been thinking about how to make additional income, your best bet may be to begin investing in real estate. It’s one of the safest ways to build your wealth and watch your equity grow, and I’ve been doing it for over a decade.
