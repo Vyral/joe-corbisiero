@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Real Estate Investment 101: How to Start Investing'
-date:
+date: 2020-02-10 16:45:48
 tags:
   - Real Estate
 excerpt: >-
