@@ -5,8 +5,7 @@ date: 2020-02-10 16:45:00
 tags:
   - Real Estate
 excerpt: >-
-  By the end of today’s crash course, you’ll know how to jump into real estate
-  investment. Here’s what to do.
+  If you want additional income, real estate investment may be for you. Here’s what to do.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Joe+Corbisiero/Real+Estate+Investment+101-+How+to+Start+Investing.mp4
 pullquote: 'The higher the cap rate, the better the investment.'
