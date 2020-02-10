@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Real Estate Investment 101: How to Start Investing'
-date: 2020-02-10 16:45:48
+date: 2020-02-10 16:45:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,13 +14,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/investing-youtube.jpg
-youtube_code:
+youtube_code: SYyqfCQCr84
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>By the end of today’s crash course, you’ll know how to jump into real estate investment. Here’s what to do.</em></p>
-
+*By the end of today’s crash course, you’ll know how to jump into real estate investment. Here’s what to do.*
 
 If you’ve been thinking about how to make additional income, your best bet may be to begin investing in real estate. It’s one of the safest ways to build your wealth and watch your equity grow, and I’ve been doing it for over a decade.
 
