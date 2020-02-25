@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Looking Back at the 2019 Market
-date:
+date: 2020-02-25 16:30:31
 tags:
   - Market Update
   - Real Estate
