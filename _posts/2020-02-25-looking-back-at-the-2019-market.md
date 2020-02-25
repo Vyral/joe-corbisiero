@@ -20,7 +20,7 @@ youtube_code: r9fmlYMqmUc
 
 {% include youtube.html %}
 
-I recently appeared on the Real Estate Rundown program to discuss how our market fared in 2019.
+<p style="text-align: center;"><em>I recently appeared on the Real Estate Rundown program to discuss how our market fared in 2019.</em></p>
 
 I recently appeared on the Real Estate Rundown program to discuss how our market fared in 2019:
 
