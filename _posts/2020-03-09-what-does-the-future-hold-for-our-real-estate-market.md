@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Does the Future Hold for Our Real Estate Market?
-date:
+date: 2020-03-09 15:11:21
 tags:
   - Real Estate
 excerpt: >-
