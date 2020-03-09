@@ -19,7 +19,7 @@ youtube_code: X-BAmBnko7w
 
 {% include youtube.html %}
 
-What can you expect from the San Diego real estate market in 2020? Here are my predictions.
+<p style="text-align: center;"><em>What can you expect from the San Diego real estate market in 2020? Here are my predictions.</em></p>
 
 On the latest episode of Real Estate Rundown, Bill Griffith and I talked about the future of real estate.&nbsp;
 
