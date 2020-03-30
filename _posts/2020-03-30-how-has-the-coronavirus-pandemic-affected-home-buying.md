@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Has the Coronavirus Pandemic Affected Home Buying?
-date:
+date: 2020-03-30 17:48:20
 tags:
   - Real Estate
 excerpt: >-
