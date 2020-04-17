@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Statistical Analysis of Our San Diego County Market
-date:
+date: 2020-04-17 13:51:00
 tags:
   - Market Update
 excerpt: >-
