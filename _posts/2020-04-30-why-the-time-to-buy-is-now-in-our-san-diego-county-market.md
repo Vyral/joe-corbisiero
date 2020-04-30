@@ -19,7 +19,7 @@ youtube_code: q0wEUBm9NJA
 
 {% include youtube.html %}
 
-Our San Diego County market is still strong, and now is a great time to buy.&nbsp;
+<p style="text-align: center;"><em>Our San Diego County market is still strong, and now is a great time to buy.</em></p>
 
 Amid the COVID-19 lockdown, today’s market update is a message of positivity.
 
