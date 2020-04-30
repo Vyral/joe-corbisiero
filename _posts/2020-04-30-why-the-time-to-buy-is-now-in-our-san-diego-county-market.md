@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why the Time to Buy Is Now in Our San Diego County Market
-date:
+date: 2020-04-30 14:29:44
 tags:
   - Real Estate
 excerpt: 'Our San Diego County market is still strong, and now is a great time to buy.'
