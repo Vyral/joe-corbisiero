@@ -27,14 +27,14 @@ I first want to say that my family and I are alive, have a roof under our heads,
 
 Things are changing quite quickly in our San Diego County market, but **from April 16 to April 23, there were 549 homes pending and 656 active listings,** which tells us that our market is still strong.&nbsp;
 
-At 3:09 in the video above, you can see a ShowingTime graph depicting the impact COVID-19 has had on home showings in California. On March 5, showings were up 32% compared to the same time in 2019. Then the pandemic hit, and by March 25, showings had plummeted 65.7%. From March 28 to April 22, though, they increased 35%.
+At 3:09 in the video above, you can see a ShowingTime graph depicting the impact COVID-19 has had on home showings in California. On March 5, showings were up 32% compared to the same time in 2019. Then the pandemic hit, and by March 25, showings had plummeted 65.7%. From March 28 to April 22, though, they increased by 35%.
 
 {% include pullquote.html %}
 
 With home showings increasing as drastically as they are, that’s a good sign, and with interest rates still low (3% to 3.25%), **there’s a short window of opportunity to buy now.** If you still have a job and were thinking of buying before the pandemic hit, make your purchase. Don’t think about what may or may not happen in the future.&nbsp;
 
-Here in California, we’re similarly blessed as far as the health of our real estate market goes, and there are still a lot of job opportunities out there. As soon as the lockdown is lifted, it will still take a month or two for everyone to recuperate mentally and many former employees to get rehired by their former employers.&nbsp;
+Here in California, we’re similarly blessed as far as the health of our real estate market goes, and there are still a lot of job opportunities out there. As soon as the lock down is lifted, it will still take a month or two for everyone to recuperate mentally and many former employees to get rehired by their former employers.&nbsp;
 
 So to reiterate, the time to buy is now.
 
-If you have any questions about our San Diego County market or there’s anything I can assist you with, don’t hesitate to reach out to me. I’m here to help.
+If you have questions about our San Diego County market or there’s anything I can assist you with, don’t hesitate to reach out to me. I’m here to help.
