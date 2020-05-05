@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/your-san-diego-county-market-update-yt.jpg
-youtube_code: q0wEUBm9NJA
+youtube_code: xj4My3bVvEU
 ---
 
 {% include youtube.html %}
