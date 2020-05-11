@@ -17,7 +17,7 @@ youtube_code: 17X94EepTfA
 
 {% include youtube.html %}
 
-Activity is climbing as more people are doing what people do best: adapt.&nbsp;
+<p style="text-align: center;"><em>Activity is climbing as more people are doing what people do best: adapt.</em></p>
 
 Everything is about perception. While many look at the fact that we went from over 3,100 sales in April 2019 to 2,194 in April 2020 and panic over the prospect of a market crash, I see something else. We must understand that we’ve been in a lockdown—I’m actually *surprised* that April’s numbers were that high given the insane circumstances.&nbsp;
 
