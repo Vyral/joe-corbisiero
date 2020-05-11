@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Worried Should You Be About the Housing Market?
-date:
+date: 2020-05-11 18:15:31
 tags:
   - Real Estate
 excerpt: 'Activity is climbing as more people are doing what people do best: adapt.'
