@@ -31,7 +31,7 @@ Things were so dire that the government had to flip the emergency switch and giv
 
 4:21 - Putting March and April’s impacted performance into a greater context
 
-6:15 - Analyzing supply, demand, and the amount of showings&nbsp;&nbsp;
+6:15 - Analyzing supply, demand, and the number of showings&nbsp;&nbsp;
 
 8:29 - So many people are losing their jobs—how could this not spell disaster for real estate?
 
