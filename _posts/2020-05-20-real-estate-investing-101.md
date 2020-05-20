@@ -19,7 +19,7 @@ youtube_code:
 
 {% include youtube.html %}
 
-Here’s what you need to know to get your real estate investment portfolio started.
+<p style="text-align: center;"><em>Here’s what you need to know to get your real estate investment portfolio started.</em></p>
 
 Perhaps you’ve heard this tried-and-true saying: “You’ll never go broke investing in San Diego real estate.” Real estate investment is one of the reasons I moved to San Diego 12 years ago.&nbsp;
 
