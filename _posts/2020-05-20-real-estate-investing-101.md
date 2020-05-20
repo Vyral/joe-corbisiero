@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Real Estate Investing 101
-date:
+date: 2020-05-20 15:13:00
 tags:
   - Real Estate
 excerpt: >-
   Here’s what you need to know to get your real estate investment portfolio
   started.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joe+Corbisiero/Real+Estate+Investing+101.mp4
 pullquote: Appreciation will happen regardless—San Diego is a great market.
 enclosure_type: video/mp4
 enclosure_time:
