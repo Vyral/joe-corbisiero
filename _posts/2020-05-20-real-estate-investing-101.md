@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Real Estate Investing 101
+title: Q: How Do I Begin Investing in Real Estate?
 date: 2020-05-20 15:13:00
 tags:
   - Real Estate
@@ -23,7 +23,7 @@ youtube_code: I1m3QnY8POw
 
 Perhaps you’ve heard this tried-and-true saying: “You’ll never go broke investing in San Diego real estate.” Real estate investment is one of the reasons I moved to San Diego 12 years ago.&nbsp;
 
-When it comes to determining whether you should leap into real estate investing, there are two main things to look at:&nbsp;
+When it comes to determining whether you should leap into real estate investing, there are two main things to consider:&nbsp;
 
 **1\. Cash flow.** When you take the rent you’re charging tenants minus the mortgage, taxes, maintenance, etc., what’s left?&nbsp;
 
@@ -31,7 +31,7 @@ When it comes to determining whether you should leap into real estate investing,
 
 {% include pullquote.html %}
 
-You can invest in all sorts of properties, but in my opinion, forget about condominiums—they tend to have homeowners associations, adding another layer of complexity to your strategy; I also recommend two to four units. If they’re strictly used for cash flow purposes, they typically require a 25% down payment.
+You can invest in all sorts of properties, but in my opinion, forget about condominiums—they tend to have homeowners associations, adding another layer of complexity to your strategy. I also recommend two to four units. If they’re strictly used for cash flow purposes, they typically require a 25% down payment.
 
 Appreciation will happen regardless—San Diego is a great market. But the cash flow in some areas (often referred to as “less desirable” areas, or gentrifying areas) will be way less than others.&nbsp;
 
