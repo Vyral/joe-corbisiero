@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Q: How Do I Begin Investing in Real Estate?
+title: "Q: How Do I Begin Investing in Real Estate?"
 date: 2020-05-20 15:13:00
 tags:
   - Real Estate
