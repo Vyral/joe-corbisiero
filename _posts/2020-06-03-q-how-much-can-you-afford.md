@@ -19,7 +19,7 @@ youtube_code: MPWIed4Y8hA
 
 {% include youtube.html %}
 
-Recently, I appeared on the “Real Estate Rundown” show with Bill Griffith to talk about home affordability and mortgages. Watch the clip here.
+<p style="text-align: center;"><em>Recently, I appeared on the “Real Estate Rundown” show with Bill Griffith to talk about home affordability and mortgages. Watch the clip here.</em></p>
 
 What’s happening with mortgages? How much can a person afford when they want to buy a house?
 
