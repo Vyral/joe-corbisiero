@@ -5,7 +5,7 @@ date: 2020-06-25 17:39:09
 tags:
   - Real Estate
 excerpt: I talked to a group of real estate pros about the importance of data.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Joe+Corbisiero/Q-+Why+Should+Agents+Pay+Attention+to+the+Data_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
