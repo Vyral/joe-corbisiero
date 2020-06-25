@@ -16,7 +16,7 @@ youtube_code: AoSO6BK9TUw
 
 {% include youtube.html %}
 
-I talked to a group of real estate pros about the importance of data.
+<p style="text-align: center;"><em>I talked to a group of real estate pros about the importance of data.</em></p>
 
 I recently gave a presentation for the San Diego Real Producers’ Mastermind Zoom series about the importance of data when analyzing the real estate market and prospecting for clients.
 
