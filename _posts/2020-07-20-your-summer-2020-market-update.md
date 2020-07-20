@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Market Update
 excerpt: 'Here’s my latest update on the market, and what to expect moving forward.'
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Joe+Corbisiero/Your+Summer+2020+Market+Update.mp4
 pullquote: 'Buyers, it might be a good idea to lock in your rate today.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -17,7 +17,8 @@ youtube_code: Vt4jFi1SJvE
 
 {% include youtube.html %}
 
-Here’s my latest update on the market, and what to expect moving forward.
+ <p style="text-align: center;"><em>
+Here’s my latest update on the market, and what to expect moving forward.</em></p>
 
 I hope everyone is doing well despite the nation’s current circumstances\! Unfortunately, **our area is having to go back under lockdown**—for example, we’re no longer allowed to dine in at restaurants for the time being. How is that affecting the real estate market? Well, a majority of the people who work in the restaurant industries (except maybe the owners) are renters, so I foresee issues within the rental market coming in the next few months to a year since those people may struggle with paying rent.&nbsp;
 
