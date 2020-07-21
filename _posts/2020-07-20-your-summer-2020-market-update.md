@@ -22,7 +22,7 @@ Here’s my latest update on the market, and what to expect moving forward.</em>
 
 I hope everyone is doing well despite the nation’s current circumstances\! Unfortunately, **our area is having to go back under lockdown**—for example, we’re no longer allowed to dine in at restaurants for the time being. How is that affecting the real estate market? Well, a majority of the people who work in the restaurant industries (except maybe the owners) are renters, so I foresee issues within the rental market coming in the next few months to a year since those people may struggle with paying rent.&nbsp;
 
-Similarly, **the rate of employment has been going up.** There used to be a 13.5% unemployment rate in our area—now we’re down to 11%. Jobs are starting to pick up again, people are going back to work, and companies are restructuring and reorganizing.
+Also, **the rate of employment has been going up.** There used to be a 13.5% unemployment rate in our area—now we’re down to 11%. Jobs are starting to pick up again, people are going back to work, and companies are restructuring and reorganizing.
 
 How is this impacting the real estate market? This has had a positive impact. People have job security; many have been working from home, which in turn causes them to reassess the amount of space they have there. People are finding they want to have a dedicated office space, a bigger yard, etc.
 
