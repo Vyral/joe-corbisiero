@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Should First-Time Buyers Do Now?'
-date: 2020-10-09 20:16:57
+date: 2020-10-09 20:16:00
 tags:
   - Market Update
 excerpt: 'Here’s my honest, fact-based advice for first-time buyers in our market.'
@@ -16,11 +16,11 @@ youtube_code: ztZZ7Bv5ft8
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s my honest, fact-based advice for first-time buyers in our market.</em></p>
+*Here’s my honest, fact-based advice for first-time buyers in our market.*
 
-By the end of September, national news about the housing market seemed chock full of mixed messages; as we head into the home stretch of 2020, some of claiming we’re on the cusp of a massive collapse and slowdown, while others report that it’s a fantastic time to buy a home. What are first-time homebuyers supposed to make of things?&nbsp; Let’s break through the noise by reviewing the facts about our 2020 San Diego County market.&nbsp;
+By the end of September, national news about the housing market seemed chock-full of mixed messages; as we head into the home stretch of 2020, some are claiming we’re on the cusp of a massive collapse and slowdown, while others report that it’s a fantastic time to buy a home. What are first-time homebuyers supposed to make of things?&nbsp; Let’s break through the noise by reviewing the facts about our 2020 San Diego County market.&nbsp;
 
-In spring, when we went into lockdown and people began losing their jobs, the expectation was that the housing market would sink titanically. That, of course, didn’t happen. Interest rates have been sustainably low—the lowest I’ve ever seen in my life\! I’ve seen loans close at 2.5%, which would dumbfound anyone from just a few years ago when people thought rates dip below 4%. **Our current record-low rates have helped the market maintain a fast pace by stirring demand.&nbsp;**
+In spring, when we went into lockdown and people began losing their jobs, the expectation was that the housing market would sink titanically. That, of course, didn’t happen. Interest rates have been sustainably low—the lowest I’ve ever seen in my life\! I’ve seen loans close at 2.5%, which would dumbfound anyone from just a few years ago when people thought rates couldn't dip below 4%. **Our current record-low rates have helped the market maintain a fast pace by stirring demand.&nbsp;**
 
 If you’re a tenant who’s hungry for homeownership but unsure what to do in this unusual market, the answer is simple: Weigh the numbers, weigh your priorities, and do whatever *you* feel is right. If you’ve been paying $2,000 or $3,000 a month in rent and have been a renter for three to five years, that means you’ve shoveled over $50,000 or $60,000 into your living accommodations with nothing else to show for it—no tax deduction, no equity, no asset.&nbsp;
 
