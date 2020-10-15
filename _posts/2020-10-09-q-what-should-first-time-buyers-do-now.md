@@ -11,12 +11,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: CstxJ5BpBbw
+youtube_code: vvI5oO6jB9g
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s my honest, fact-based advice for first-time buyers in our market.</em></p>
+*Here’s my honest, fact-based advice for first-time buyers in our market.*
 
 By the end of September, national news about the housing market seemed chock-full of mixed messages; as we head into the home stretch of 2020, some are claiming we’re on the cusp of a massive collapse and slowdown, while others report that it’s a fantastic time to buy a home. What are first-time homebuyers supposed to make of things?&nbsp; Let’s break through the noise by reviewing the facts about our 2020 San Diego County market.&nbsp;
 
