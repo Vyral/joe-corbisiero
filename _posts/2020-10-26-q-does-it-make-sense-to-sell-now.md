@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 'Q: Does It Make Sense to Sell Now?'
-date: 2020-10-26 14:01:30
+date: 2020-10-26 14:01:00
 tags:
+  - Home Seller Tips
 excerpt: Here are my thoughts on selling a home now versus waiting for spring.
 enclosure:
 pullquote: There’s never a “perfect” time to buy or sell a home.
@@ -15,7 +16,7 @@ youtube_code: snFmTiC0jFA
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here are my thoughts on selling a home now versus waiting for spring.</em></p>
+*Here are my thoughts on selling a home now versus waiting for spring.*
 
 You’ve probably heard a bunch of conflicting information about our market, so I’m here to clear things up and give you the facts. Speculation is speculation and numbers are numbers.&nbsp;
 
