@@ -15,7 +15,7 @@ youtube_code: snFmTiC0jFA
 
 {% include youtube.html %}
 
-Here are my thoughts on selling a home now versus waiting for spring.
+<p style="text-align: center;"><em>Here are my thoughts on selling a home now versus waiting for spring.</em></p>
 
 You’ve probably heard a bunch of conflicting information about our market, so I’m here to clear things up and give you the facts. Speculation is speculation and numbers are numbers.&nbsp;
 
