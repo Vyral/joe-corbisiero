@@ -6,7 +6,7 @@ tags:
   - Home Seller Tips
 excerpt: Here are my thoughts on selling a home now versus waiting for spring.
 enclosure:
-pullquote: There’s never a “perfect” time to buy or sell a home.
+pullquote: There’s never a 'perfect' time to buy or sell a home.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -16,11 +16,9 @@ youtube_code: snFmTiC0jFA
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here are my thoughts on selling a home now versus waiting for spring.</em></p>
+*Here are my thoughts on selling a home now versus waiting for spring.*
 
-You’ve probably heard a bunch of conflicting information about our market, so I’m here to clear things up and give you the facts. Speculation is speculation and numbers are numbers.&nbsp;
-
-**Our team continues to help clients buy and sell homes day after day.** We have buyers, sellers, investors, and other real estate professionals who are buying and selling real estate.
+You’ve probably heard a bunch of conflicting information about our market, so I’m here to clear things up and give you the facts.&nbsp;**Our team continues to help clients buy and sell homes day after day.** We have buyers, sellers, investors, and other real estate professionals who are buying and selling real estate.
 
 {% include pullquote.html %}
 
