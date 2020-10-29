@@ -5,7 +5,7 @@ date: 2020-10-26 14:01:00
 tags:
   - Home Seller Tips
 excerpt: Here are my thoughts on selling a home now versus waiting for spring.
-enclosure:
+enclosure: 'https://vyralmarketing.s3.amazonaws.com/Q-+Does+It+Make+Sense+to+Sell+Now_.mp4'
 pullquote: There’s never a 'perfect' time to buy or sell a home.
 enclosure_type: video/mp4
 enclosure_time:
