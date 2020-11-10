@@ -18,7 +18,7 @@ youtube_code: TFrYY-3JmCM
 
 {% include youtube.html %}
 
-*Here’s what you need to know if you’re thinking of buying a home in San Diego.*
+<p style="text-align: center;"><em>Here’s what you need to know if you’re thinking of buying a home in San Diego.</em></p>
 
 As we move through the fall season, you may be hearing a lot of things from the media regarding our real estate market. Some say we’re in a bubble and that a slowdown is imminent. Others say you should buy now because it’s a great opportunity.&nbsp;
 
