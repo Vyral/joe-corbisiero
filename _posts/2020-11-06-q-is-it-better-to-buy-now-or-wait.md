@@ -5,7 +5,8 @@ date: 2020-11-06 21:59:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s what you need to know if you’re thinking of buying a home in San Diego.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joe+Corbisiero/Is+It+Better+to+Buy+Now+or+Wait_+(1).mp4
 pullquote: >-
   If you really want to buy, don’t focus on a home’s price—focus on your
   potential monthly mortgage payment.
@@ -18,7 +19,7 @@ youtube_code: TFrYY-3JmCM
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s what you need to know if you’re thinking of buying a home in San Diego.</em></p>
+*Here’s what you need to know if you’re thinking of buying a home in San Diego.*
 
 As we move through the fall season, you may be hearing a lot of things from the media regarding our real estate market. Some say we’re in a bubble and that a slowdown is imminent. Others say you should buy now because it’s a great opportunity.&nbsp;
 
