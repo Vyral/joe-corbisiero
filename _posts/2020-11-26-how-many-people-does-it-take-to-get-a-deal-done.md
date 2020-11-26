@@ -19,7 +19,7 @@ youtube_code: x3V20ARvOes
 
 {% include youtube.html %}
 
-Here’s a rundown of everyone who’s involved in a typical&nbsp; transaction.
+<p style="text-align: center;"><em>Here’s a rundown of everyone who’s involved in a typical transaction.</em></p>
 
 There are so many people involved in a real estate transaction in California, and oftentimes, buyers and sellers don’t have all the information they need before starting the process. So, what can you really expect? Exactly how many people are involved in a typical transaction?
 
