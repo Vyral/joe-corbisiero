@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Many People Does It Take to Get a Deal Done?
-date: 2020-11-26 01:46:00
+date: 2020-12-07 12:00:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -19,7 +19,7 @@ youtube_code: LVDSBUILWDU
 
 {% include youtube.html %}
 
-<p style="text-align:center"><em>Here’s a rundown of everyone who’s involved in a typical transaction.</em></p>
+*Here’s a rundown of everyone who’s involved in a typical transaction.*
 
 There are so many people involved in a real estate transaction in California, and oftentimes, buyers and sellers don’t have all the information they need before starting the process. So, what can you really expect? Exactly how many people are involved in a typical transaction?
 
