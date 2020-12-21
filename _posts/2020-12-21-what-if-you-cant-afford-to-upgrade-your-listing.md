@@ -18,7 +18,7 @@ youtube_code: tAFApwUzRZE
 
 {% include youtube.html %}
 
-Can’t afford to upgrade your home before listing? Here are your options.
+<p style="text-align: center;"><em>Can’t afford to upgrade your home before listing? Here are your options.</em></p>
 
 So you’ve thought about selling your San Diego home but it needs some work first. Generally speaking, homes that are in impeccable condition sell for more than homes that need a little work. By “need a little work,” I mean your property could use a paint job, bathroom/kitchen remodel, roof or foundation repair, etc.&nbsp;
 
