@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What if You Can’t Afford to Upgrade Your Listing?
-date: 2020-12-21 19:56:06
+date: 2021-1-05 09:00:00
 tags:
   - Home Seller Tips
 excerpt: Can’t afford to upgrade your home before listing? Here are your options.
