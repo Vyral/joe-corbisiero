@@ -5,7 +5,7 @@ date: 2021-1-05 09:00:00
 tags:
   - Home Seller Tips
 excerpt: Can’t afford to upgrade your home before listing? Here are your options.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Joe+Corbisiero/Different+ways+of+selling+your+home+edited.mp4
 pullquote: >-
   At the end of the day, my goal is to make as much money for you as possible
   when selling your home.
