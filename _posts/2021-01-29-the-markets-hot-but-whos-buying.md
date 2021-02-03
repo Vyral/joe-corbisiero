@@ -16,9 +16,9 @@ youtube_code: Q8vHIqHoCGU
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>If you’re a first-time buyer, this is a must-watch discussion tailored to you.</em></p>
+*If you’re a first-time buyer, this is a must-watch discussion tailored to you.*
 
-Today I’m sharing a segment of an awesome discussion I had last month with some of the rockstar members of The Dream Homes Team. As part of our first-time homebuyer’s seminar, we not only wanted to empower buyers who might be on the fence, but also to dissect this high-demand, low-supply market of ours. Who, exactly, is buying in the San Diego area? And furthermore, if prices are rising, what’s causing all these buyers to jump into the market? Joining The Dream Homes Team is Ryan Shammam from Cross Country Mortgage to explain the ease with which most homebuyers can get qualified right now.&nbsp;
+Today I’m sharing a segment of an awesome discussion I had last month with some of the rockstar members of The Dream Homes Team. As part of our first-time homebuyer’s seminar, we not only wanted to empower buyers who might be on the fence but also to dissect this high-demand, low-supply market of ours. Who, exactly, is buying in the San Diego area? Joining The Dream Homes Team is Ryan Shammam from Cross Country Mortgage to explain the ease with which most homebuyers can get qualified right now.&nbsp;
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to skip to topics that interest you most:&nbsp;**
 
