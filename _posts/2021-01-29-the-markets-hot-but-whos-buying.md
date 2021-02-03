@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Market’s Hot, But Who’s Buying?'
-date: 2021-01-29 09:00:00
+date: 2021-02-03 09:00:00
 tags:
   - Home Buyer Tips
 excerpt: 'If you’re a first-time buyer, this is a must-watch discussion tailored to you.'
