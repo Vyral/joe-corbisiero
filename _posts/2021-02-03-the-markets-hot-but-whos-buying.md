@@ -5,7 +5,8 @@ date: 2021-02-03 09:00:00
 tags:
   - Home Buyer Tips
 excerpt: 'If you’re a first-time buyer, this is a must-watch discussion tailored to you.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joe+Corbisiero/The+Market%E2%80%99s+Hot%2C+But+Who%E2%80%99s+Buying_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,7 +17,7 @@ youtube_code: Q8vHIqHoCGU
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>If you’re a first-time buyer, this is a must-watch discussion tailored to you.</em></p>
+*If you’re a first-time buyer, this is a must-watch discussion tailored to you.*
 
 Today I’m sharing a segment of an awesome discussion I had last month with some of the rockstar members of The Dream Homes Team. As part of our first-time homebuyer’s seminar, we not only wanted to empower buyers who might be on the fence but also to dissect this high-demand, low-supply market of ours. Who, exactly, is buying in the San Diego area? Joining The Dream Homes Team is Ryan Shammam from Cross Country Mortgage to explain the ease with which most homebuyers can get qualified right now.&nbsp;
 
