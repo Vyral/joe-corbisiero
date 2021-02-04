@@ -19,7 +19,7 @@ youtube_code: KjBAW-4XWGM
 
 <p style="text-align: center;"><em>What’s it like being a homebuyer in 2021? Today we have your answers.</em></p>
 
-Today I’m joined by agents Anja Hollands, Javier Hernandez, Desirae Morris, and Ryan Shammam for a discussion focusing on the position of homebuyers in our market. What’s changed since January 2020? What can buyers expect from the home-buying process? What should they consider most important among their wants and needs? All these questions and more will be answered.&nbsp;
+Today I’m joined by agents Anja Hollands, Javier Hernandez, Desirae Morris, and Ryan Shammam for a discussion focusing on the position of homebuyers in our market. What’s changed since January 2020? What can buyers expect from the home-buying process? What should they consider to be most important among their wants and needs? All these questions and more will be answered.&nbsp;
 
 **Feel free to watch the video above in its entirety, or use these timestamps to skip ahead to various sections at your leisure:&nbsp;**
 
