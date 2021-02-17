@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Your Guide to Being a Buyer in 2021
-date: 2021-02-03 09:00:00
+date: 2021-02-17 09:00:00
 tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: What’s it like being a homebuyer in 2021? Today we have your answers.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joe+Corbisiero/Your+Guide+to+Being+a+Buyer+in+2021.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -17,7 +18,7 @@ youtube_code: KjBAW-4XWGM
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>What’s it like being a homebuyer in 2021? Today we have your answers.</em></p>
+*What’s it like being a homebuyer in 2021? Today we have your answers.*
 
 Today I’m joined by agents Anja Hollands, Javier Hernandez, Desirae Morris, and Ryan Shammam for a discussion focusing on the position of homebuyers in our market. What’s changed since January 2020? What can buyers expect from the home-buying process? What should they consider to be most important among their wants and needs? All these questions and more will be answered.&nbsp;
 
