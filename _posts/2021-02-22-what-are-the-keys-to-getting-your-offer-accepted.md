@@ -17,7 +17,7 @@ youtube_code: 2T2b4L1QesU
 
 {% include youtube.html %}
 
-*Here are the tips you need to know to get your offer accepted in this market.*
+<p style="text-align: center;"><em>Here are the tips you need to know to get your offer accepted in this market.</em></p>
 
 How do you get your offer accepted in this market? Today I’m joined by agents Desirae Morris, Anja Hollands, Javier Hernandez, and Ryan Shamman to answer that question. They’re the best in the business, and they’ll share the same tips and tricks they use for their buyer clients. They’ll discuss not only how to send a strong offer, but also what initial steps you must take after your offer has been accepted.&nbsp;
 
