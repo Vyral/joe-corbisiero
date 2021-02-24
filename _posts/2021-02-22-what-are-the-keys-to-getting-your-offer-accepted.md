@@ -17,11 +17,11 @@ youtube_code: 2T2b4L1QesU
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here are the tips you need to know to get your offer accepted in this market.</em></p>
+*Here are the tips you need to know to get your offer accepted in this market.*
 
 How do you get your offer accepted in this market? Today I’m joined by agents Desirae Morris, Anja Hollands, Javier Hernandez, and Ryan Shamman to answer that question. They’re the best in the business, and they’ll share the same tips and tricks they use for their buyer clients. They’ll discuss not only how to send a strong offer, but also what initial steps you must take after your offer has been accepted.&nbsp;
 
-**Feel free to watch the video above in its entirety to learn all about making a strong offer or use these timestamps to skip ahead to various sections at your leisure:&nbsp;**
+**Feel free to watch the video above in its entirety to learn all about making a strong offer, or use these timestamps to skip ahead to various sections at your leisure:&nbsp;**
 
 0:24—Be competitive with your contingency periods&nbsp;
 
