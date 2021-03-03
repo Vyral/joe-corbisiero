@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Are the Keys to Getting Your Offer Accepted?
-date: 2021-02-22 09:00:00
+date: 2021-03-03 09:00:00
 tags:
   - Home Buyer Tips
   - Real Estate
