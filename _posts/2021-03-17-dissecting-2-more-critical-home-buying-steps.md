@@ -19,7 +19,7 @@ youtube_code: tEzL6VYugq8
 ---
 {% include youtube.html %}
 
-*Let’s continue our discussion about the steps of buying a home.*
+<p style="text-align: center;"><em>Let’s continue our discussion about the steps of buying a home.</em></p>
 
 Today I’m joined once again by Ryan Shammam and Desirae Morris to talk about two more critical steps of the home-buying process: scheduling an appraisal and ordering homeowners insurance and the home warranty.&nbsp;
 
