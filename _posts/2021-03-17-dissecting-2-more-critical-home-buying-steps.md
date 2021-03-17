@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Dissecting 2 More Critical Home-Buying Steps
-date: 2021-03-10 09:00:00
+date: 2021-03-17 09:00:00
 tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: Let’s continue our discussion about the steps of buying a home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joe+Corbisiero/Dissecting+2+More+Critical+Home-Buying+Steps.mp4
 pullquote: >-
   In addition to evaluating the home, the appraiser is there to ensure the home
   has no obvious health and safety issues.
@@ -18,7 +19,7 @@ youtube_code: tEzL6VYugq8
 ---
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Let’s continue our discussion about the steps of buying a home.</em></p>
+*Let’s continue our discussion about the steps of buying a home.*
 
 Today I’m joined once again by Ryan Shammam and Desirae Morris to talk about two more critical steps of the home-buying process: scheduling an appraisal and ordering homeowners insurance and the home warranty.&nbsp;
 
