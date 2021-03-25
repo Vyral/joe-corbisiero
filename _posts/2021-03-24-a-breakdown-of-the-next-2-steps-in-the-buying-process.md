@@ -24,7 +24,7 @@ Let’s begin with step No. 7: **signing the loan documents**. At this point, th
 
 {% include pullquote.html %}
 
-When the loan goes live, by which we mean when you have an accepted purchase contract, your lender will have to disclose all of the terms to you within three days, including the interest rate your lender will charge you. At this point, the only things that are subject to change from when the loan is disclosed to the closing table are things like the title and escrow fees, which are outside of the lender’s control. That is, unless there’s some change to your credit; don’t make any large purchases right before closing. We’ve seen loans get denied after clients have bought things like iPhones and new furniture before the purchase process was fully completed.
+When the loan goes live, by which we mean when you have an accepted purchase contract, your lender will have to disclose all of the terms to you within three days, including the interest rate your lender will charge you. At this point, the only things that are subject to change from when the loan is disclosed to the closing table are things like the title and escrow fees, which are outside of the lender’s control. That is, unless there’s some change to your credit, don’t make any large purchases right before closing. We’ve seen loans get denied after clients had bought things like iPhones and new furniture before the purchase process was fully completed.
 
 To avoid the false promises that many companies make regarding low, low rates, buyers should seek out a direct lender. When they go to price out your loan, they can see what all the major banks in the US are charging. A direct lender can choose whoever has the best pricing for you so you can lock in that rate with them.
 
