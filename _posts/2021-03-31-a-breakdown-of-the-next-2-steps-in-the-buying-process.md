@@ -1,12 +1,13 @@
 ---
 layout: post
 title: A Breakdown of the Next 2 Steps in the Buying Process
-date: 2021-03-24 09:00:00
+date: 2021-03-31 09:00:00
 tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: Here are two more critical steps of the home-buying process.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joe+Corbisiero/A+Breakdown+of+the+Next+2+Steps+in+the+Buying+Process.mp4
 pullquote: Don’t make any large purchases right before closing.
 enclosure_type: video/mp4
 enclosure_time:
