@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Best Parts of a Home Purchase
-date: 2021-04-13 09:00:00
+date: 2021-04-26 09:00:00
 tags:
   - Home Buyer Tips
   - Real Estate
