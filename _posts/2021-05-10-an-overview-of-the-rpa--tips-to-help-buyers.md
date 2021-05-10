@@ -1,12 +1,13 @@
 ---
 layout: post
 title: An Overview of the RPA & Tips to Help Buyers
-date: 2021-04-30 00:00:00
+date: 2021-05-10 08:00:00
 tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: These are the ways we help our buyer clients write competitive offers.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joe+Corbisiero/An+Overview+of+the+RPA+%26+Tips+to+Help+Buyers.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
