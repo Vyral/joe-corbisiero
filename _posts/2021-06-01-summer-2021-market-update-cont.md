@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Summer 2021 Market Update Cont.
-date: 2021-06-01 17:32:15
+date: 2021-06-01 17:32:00
 tags:
   - Market Update
 excerpt: A continuation on the topic of the current state of the market.
@@ -18,7 +18,7 @@ youtube_code: XK6HH0Sv9mY
 
 {% include excerpt.html %}
 
-This is a continuation of the topic about the state of the market right now. A Zillow economist wrote an article recently forecasting that 6.4 million homes would be sold in 2021 in the U.S. They now also expect homes to appreciate by 10.4% nationwide by December 2021. Watch out for the data by different economists that you see on TV because Southern California's different. You might want to expect 6% to 7% growth.
+This is a continuation of the topic about the state of the market right now. A Zillow economist wrote an article recently forecasting that 6.4 million homes would be sold in 2021 in the U.S. They now also expect homes to appreciate by 10.4% nationwide by December 2021. Watch out for the data by different economists that you see on TV because Southern California's different. We might see 6% to 7% growth.
 
 **The biggest problem I mentioned last time is that inventory is so low**. We're selling more homes than we have on the market. That’s why you’re seeing increasing prices and many multiple-offers scenarios. You are only able to find a home on the market without multiple offers if it's overpriced. Data shows this would be anything from $765,000 to $840,000.
 
