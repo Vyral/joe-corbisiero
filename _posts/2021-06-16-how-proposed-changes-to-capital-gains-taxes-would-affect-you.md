@@ -1,11 +1,12 @@
 ---
 layout: post
 title: How Proposed Changes to Capital Gains Taxes Would Affect You
-date: 2021-06-16 19:39:48
+date: 2021-06-16 19:43:02
 tags:
   - Home Seller Tips
 excerpt: Changes in capital gains taxes may be on the horizon.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joe+Corbisiero/How+Proposed+Changes+to+Capital+Gains+Taxes+Would+Affect+You.mp4
 pullquote: >-
   If you’ve been thinking about selling off an investment property, now may be
   the time to do so in order to avoid these steep capital gains tax hikes.
