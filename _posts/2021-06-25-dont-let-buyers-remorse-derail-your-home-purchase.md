@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/why-you-shouldnt-give-in-to-buyers-remorse-yt.jpg
-youtube_code: O7SnGuxlgeI
+youtube_code: ueCvpmdVPq0
 ---
 {% include youtube.html %}
 
