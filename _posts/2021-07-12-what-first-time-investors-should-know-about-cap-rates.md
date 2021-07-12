@@ -24,6 +24,6 @@ However, it’s not the only cap rate you should be looking at; there is so much
 
 {% include pullquote.html %}
 
-**Go to**[**rentometer.com**](https://www.rentometer.com/) **to check the current rental market value of the property you’re thinking about purchasing.** If there are tenants currently in the property, you may want to consider a “cash for keys” offer to get them to vacate. You can pay them to get out of the property so you can buy it and find new tenants. Then you're well on your way to becoming a profitable real estate investor.
+**Go to&nbsp;**[**rentometer.com**](https://www.rentometer.com/) **to check the current rental market value of the property you’re thinking about purchasing.** If there are tenants currently in the property, you may want to consider a “cash for keys” offer to get them to vacate. You can pay them to get out of the property so you can buy it and find new tenants. Then you're well on your way to becoming a profitable real estate investor.
 
 If you have questions about this topic or anything else related to real estate, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon. Ciao\!
