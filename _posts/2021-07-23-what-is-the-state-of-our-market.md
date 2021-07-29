@@ -10,8 +10,8 @@ enclosure:
 pullquote: People are putting home buying on the back burner.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/market-update-yt.jpg
+use_youtube_image: false
+youtube_alternate_image: /uploads/market-update-yt-1.jpg
 youtube_code: xdXVMO2BXEo
 ---
 {% include youtube.html %}
@@ -26,12 +26,12 @@ At 1:30 in the video, you can see the San Diego County active listing inventory 
 
 * In the $750,000 to $1 million price range, the market time is 22 days and the current demand is still 22%.
 
-{% include pullquote.html %}
-
 * From $1 million to $1.25 million, there are enough homes for the demand, and the market time is 24 days.
 * Over $1.25 million, there is 7% of inventory and only 5% demand so it's balancing out.
 * In the $4 million and higher range, there is 8% of the inventory and the current demand is 1%.
 
 * 84 homes were listed in the past two weeks, which is up 3%.
+
+{% include pullquote.html %}
 
 This is a great real estate market overall, and we're likely going to see a peak again in September to December. If you want to know more information about how to maximize your profit, feel free to reach out to me at 760-201-9252 or send us an email. My team will be happy to assist you.
