@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/joe-corbisiero-ss-yt.jpg
-youtube_code: B6L3IH9P-xk
+youtube_code: atiN5PoY2z8
 ---
 {% include youtube.html %}
 
