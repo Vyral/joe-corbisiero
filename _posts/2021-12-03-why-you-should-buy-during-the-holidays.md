@@ -6,7 +6,8 @@ tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: Here are five reasons why you should buy this holiday season.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joe+Corbisiero/Why+You+Should+Buy+During+the+Holidays.mp4
 pullquote: Right now is the sweet spot.
 enclosure_type: video/mp4
 enclosure_time:
