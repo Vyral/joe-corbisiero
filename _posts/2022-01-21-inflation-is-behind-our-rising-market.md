@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/joe-yt-2.jpg
-youtube_code: cnl0U9ipTHw
+youtube_code: aoSRuDfWn5o
 ---
 {% include youtube.html %}
 
