@@ -22,17 +22,17 @@ youtube_code: obIHtgDKc5c
 
 If you’re purchasing a home, you’re probably aware that you’ll need a down payment and a mortgage payment, but you might not be aware of all the other costs involved. Today we’re answering some common questions surrounding the amount of money you need to buy a home.
 
-***Do you pay out of pocket for your buyer’s agent?***
+**Do you pay out of pocket for your buyer’s agent?**
 
 The simple answer is no. All of the payments made to the buyer’s agent that you choose to work with have already been predetermined by the seller and their listing agent when they sign that agreement. All the work a buyer’s agent does for you upfront, like setting up your home search and writing offers, is absolutely free of charge to you as a homebuyer.
 
 {% include pullquote.html %}
 
-***Does it cost money to get pre-approved?***&nbsp;
+**Does it cost money to get pre-approved?**&nbsp;
 
 Again, the answer is no. You can get pre-approved with as many lenders as you like and it won’t hurt your credit score to get pre-approved with multiple lenders.
 
-***What costs am I responsible for?***
+**What costs am I responsible for?**
 
 Home inspection fees, for one. That will cost you anywhere from $300 to $700 and provide you with a full list of anything that might be wrong with that property. It also gives you great negotiating power in case there are some larger ticket items to take care of.&nbsp;
 
