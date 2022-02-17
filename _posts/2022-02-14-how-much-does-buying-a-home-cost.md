@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/joe-yt-3.jpg
-youtube_code: obIHtgDKc5c
+youtube_code: xC2-f87oigc
 ---
 {% include youtube.html %}
 
@@ -30,7 +30,7 @@ The simple answer is no. All of the payments made to the buyer’s agent that yo
 
 **Does it cost money to get pre-approved?**&nbsp;
 
-Again, the answer is no. You can get pre-approved with as many lenders as you like and it won’t hurt your credit score to get pre-approved with multiple lenders.
+Again, the answer is no. You can get pre-approved with as many lenders as you like, and it won’t hurt your credit score.
 
 **What costs am I responsible for?**
 
@@ -40,4 +40,4 @@ The home appraisal is something else you’ll have to pay for. It’s required b
 
 Finally, we have closing costs. They’ll run you about 2.5% of the purchase price of the home, on average. They include prorated property taxes and HOA fees, your credit report, lender fees, title fees, escrow fees, and more.
 
-I hope you had a lot of questions answered today about what it costs to buy a home. If you have any other questions related to buying a home or real estate in general, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+I hope you had some questions answered today about what it costs to buy a home. If you have any other questions related to buying a home or real estate in general, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
