@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Here’s what you'll need to factor into your budget if you’re buying a home
   soon.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joe+Corbisiero/How+Much+Does+Buying+a+Home+Cost_.mp4
 pullquote: The appraisal is required by your lender if you’re paying with a loan.
 enclosure_type: video/mp4
 enclosure_time:
@@ -28,15 +29,15 @@ The simple answer is no. All of the payments made to the buyer’s agent that yo
 
 {% include pullquote.html %}
 
-**Does it cost money to get pre-approved?**&nbsp;
+**Does it cost money to get pre-approved?**
 
 Again, the answer is no. You can get pre-approved with as many lenders as you like, and it won’t hurt your credit score.
 
 **What costs am I responsible for?**
 
-Home inspection fees, for one. That will cost you anywhere from $300 to $700 and provide you with a full list of anything that might be wrong with that property. It also gives you great negotiating power in case there are some larger ticket items to take care of.&nbsp;
+Home inspection fees, for one. That will cost you anywhere from $300 to $700 and provide you with a full list of anything that might be wrong with that property. It also gives you great negotiating power in case there are some larger ticket items to take care of.
 
-The home appraisal is something else you’ll have to pay for. It’s required by your lender to ensure the value of the property. They use the appraisal as a kind of checks and balances system to make sure they don’t overpay for the property.&nbsp;
+The home appraisal is something else you’ll have to pay for. It’s required by your lender to ensure the value of the property. They use the appraisal as a kind of checks and balances system to make sure they don’t overpay for the property.
 
 Finally, we have closing costs. They’ll run you about 2.5% of the purchase price of the home, on average. They include prorated property taxes and HOA fees, your credit report, lender fees, title fees, escrow fees, and more.
 
