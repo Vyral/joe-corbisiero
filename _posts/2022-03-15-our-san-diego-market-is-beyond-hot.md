@@ -6,7 +6,8 @@ tags:
   - Home Seller Tips
   - Real Estate
 excerpt: Why now might be the best seller’s market ever in San Diego.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joe+Corbisiero/Our+San+Diego+Market+Is+Beyond+Hot.mp4
 pullquote: Buyers are doing anything they can just to own a home like yours.
 enclosure_type: video/mp4
 enclosure_time:
@@ -20,9 +21,9 @@ youtube_code: V_VlSSknuqc
 
 You might’ve heard about how hot our San Diego market is, especially if you don’t live in the area. We are here to tell you that spring 2022 is the best time to put your home on the market. Not only will you get top dollar, but you’ll also get the best terms possible. Now is truly the perfect time to sell.
 
-**We are experiencing the lowest inventory ever in the San Diego market.** Sellers are getting so much exposure, and they don’t have to compete against any other houses. They are likely the only home in their neighborhood at the time.&nbsp;
+**We are experiencing the lowest inventory ever in the San Diego market.** Sellers are getting so much exposure, and they don’t have to compete against any other houses. They are likely the only home in their neighborhood at the time.
 
-We have less than one month of inventory, and our demand is through the roof. Buyers are doing anything they can just to own a home like yours. This is possibly the best seller’s market in history, and sellers will continue to have the upper hand throughout the coming spring.&nbsp;
+We have less than one month of inventory, and our demand is through the roof. Buyers are doing anything they can just to own a home like yours. This is possibly the best seller’s market in history, and sellers will continue to have the upper hand throughout the coming spring.
 
 Interest rates are also rising, and that is pushing some buyers out of the market because they can’t afford as much as before. As interest rates continue to increase, **putting your home on the market now will give you the best chance to get multiple offers.**
 
