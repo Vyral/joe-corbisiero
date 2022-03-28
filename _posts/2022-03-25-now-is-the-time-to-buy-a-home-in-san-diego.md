@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Now Is the Time To Buy a Home In San Diego
+title: Now is the Time to Buy a Home in San Diego
 date: 2022-03-25 00:00:00
 tags:
   - Home Buyer Tips
@@ -22,8 +22,8 @@ If you’ve been waiting to purchase a home in beautiful San Diego, today I’ll
 
 **1\. Home prices are projected to increase by another 10% this year.**
 
-**2\. It will take at least five years for our supply of homes to catch up with buyer demand**. This is assuming the market doesn’t accept any new buyers in that time, which won’t be the case.
+**2\. It will take at least five years for our supply of homes to catch up with buyer demand**. This is assuming more buyers don't enter the market during that time, which won't be the case.
 
-**3\. We’re not headed for another housing crisis.** Unlike back in 2008 when the housing market crashed, we don’t currently have the adjustable-rate mortgages that contributed to the market downfall, and people aren’t defaulting on their homes.
+**3\. We’re not headed for another housing crisis.** Unlike back in 2008, when the housing market crashed, we don’t currently have the adjustable-rate mortgages that contributed to the market downfall, and people aren’t defaulting on their homes.
 
 Let’s get you into a house as soon as possible. If you have any questions about the market or how to get the buying process started, reach out to us by phone or email. We’d love to help you.
