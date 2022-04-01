@@ -6,7 +6,8 @@ tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: Here are three reasons to get off the fence and buy a home now.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joe+Corbisiero/Now+is+the+Time+to+Buy+a+Home+in+San+Diego.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
