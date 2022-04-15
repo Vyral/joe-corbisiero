@@ -6,7 +6,8 @@ tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: If you’re buying and selling real estate in San Diego, use a good agent.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joe+Corbisiero/Why+You+Should+Use+an+Agent+Like+Me.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
