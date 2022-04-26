@@ -27,7 +27,7 @@ The strategy of buying low and selling high works with stocks, collectibles, and
 
 2\. Consider cosmetic repairs. Some day you’ll see the return on investment from those improvements, and in the meantime, the things you enhanced will be to your taste.
 
-3\. Don’t wait any longer. Prices are won't decrease, so now is the time to buy.&nbsp;
+3\. Don’t wait any longer. Prices won't decrease, so now is the time to buy.&nbsp;
 
 {% include pullquote.html %}
 
