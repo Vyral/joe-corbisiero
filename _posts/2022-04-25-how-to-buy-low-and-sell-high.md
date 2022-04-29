@@ -7,7 +7,8 @@ tags:
   - Home Seller Tips
   - Real Estate
 excerpt: Buying low and selling high is a great strategy in real estate.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joe+Corbisiero/How+To+Buy+Low+and+Sell+High.mp4
 pullquote: Buying low and selling high is the best way to win in real estate.
 enclosure_type: video/mp4
 enclosure_time:
