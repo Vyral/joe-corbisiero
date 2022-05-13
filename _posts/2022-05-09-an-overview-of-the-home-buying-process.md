@@ -6,7 +6,8 @@ tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: A quick overview of all the steps involved in the home-buying process.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joe+Corbisiero/An+Overview+of+the+Home-Buying+Process.mp4
 pullquote: You need to connect with a knowledgeable and reliable real estate agent.
 enclosure_type: video/mp4
 enclosure_time:
