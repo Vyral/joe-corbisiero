@@ -19,7 +19,7 @@ youtube_code: 5hbsOJMO0YM
 
 {% include excerpt.html %}
 
-Today we’re pleased to be joined by Maria Corbisiero and Colby Kibodeaux, two home-flipping experts. They’re here to tell us all about flipping homes in San Diego and share some of their best tips. It’s not quick and easy like HGTV, but it’s always rewarding and often profitable.&nbsp;
+Today we’re pleased to be joined by Maria Corbisiero and Colby Kibodeaux, two home-flipping experts. They’re here to tell us all about flipping homes in San Diego and share some of their best tips. It’s not quick and easy like HGTV makes it seem, but it’s always rewarding and often profitable.&nbsp;
 
 **You can listen to our full conversation in the video above or skip to each topic using the timestamps provided:**
 
