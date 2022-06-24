@@ -20,7 +20,7 @@ youtube_code: Qe32K_Zmdfk
 
 As you know, interest rates have spiked to a little over 6% since the beginning of the year. That’s not great news for buyers, as rising rates mean that fewer buyers can afford homes. In turn, **the demand for homes has decreased by 32% since January.** These factors combined have resulted in inventory rising by 143% compared to the start of 2022. The time that homes spend on the market increased from 19 days in March to 42 days in June, showing that homes are staying on the market longer than we’ve been accustomed to.&nbsp;
 
-These numbers may sound high, but homebuyers needn’t worry. Though interest rates have doubled since January, if you buy a home with a 30-year fixed loan now, you’ll lock in that rate for the life of the loan. That means you can always refinance your home when rates drop down again.
+These numbers may sound high, but homebuyers don't need to worry. Though interest rates have doubled since January, if you buy a home with a 30-year fixed loan now, you’ll lock in that rate for the life of the loan. That means you can always refinance your home when rates drop down again.
 
 {% include pullquote.html %}
 
