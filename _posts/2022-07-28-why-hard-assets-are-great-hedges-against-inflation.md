@@ -1,18 +1,13 @@
 ---
 layout: post
-title: Why Hard Assets Are Great Hedges Against Inflation
+title: How Hard Assets Hedge Against Rising Costs
 date: 2022-07-28 21:11:24
 tags:
   - Real Estate
   - Home Seller Tips
 excerpt: 'The cost of living is increasing. How can you hedge against inflation? '
 enclosure:
-pullquote: >-
-  0:00 — Introduction  0:43 — Why hard assets are so valuable when inflation is
-  high  2:01 — An example showing why homeownership protects against inflation 
-  3:18 — Why mailbox money is so great  4:20 — Why it’s better to own a home
-  than rent  5:24 — Rents are increasing across the country  6:12 — The risk of
-  renting instead of buying  7:17 — Wrapping up today’s topic
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -27,6 +22,13 @@ Unless you’ve been living under a rock, you know that inflation is high. The i
 
 **You can hear our full discussion in the video above or skip to each topic using the timestamps provided:**
 
-{% include pullquote.html %}
+* 0:00 — Introduction &nbsp;
+* 0:43 — Why hard assets are so valuable when inflation is high &nbsp;
+* 2:01 — An example showing why homeownership protects against inflation &nbsp;
+* 3:18 — Why mailbox money is so great &nbsp;
+* 4:20 — Why it’s better to own a home than rent &nbsp;
+* 5:24 — Rents are increasing across the country &nbsp;
+* 6:12 — The risk of renting instead of buying &nbsp;
+* 7:17 — Wrapping up today’s topic
 
 If you have questions about today’s topic or anything else, please call or email me. We are always willing to help\!&nbsp;
