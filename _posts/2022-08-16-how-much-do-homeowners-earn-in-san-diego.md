@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Much Do Homeowners Earn in San Diego?
-date:
+date: 2022-08-16 00:00:00
 tags:
   - Real Estate
 excerpt: Using math to show why it pays to be a homeowner in San Diego.
