@@ -17,15 +17,15 @@ youtube_code: yI-TuYeuB1U
 
 {% include excerpt.html %}
 
-How much money do you make owning a home in San Diego? We’ll use some rough estimates and averages to give you a good idea of what the average homeowner earns from their property in our area.&nbsp;
+How much money can you make owning a home in San Diego? Using rough estimates and averages, today we'll give you a good idea of what the average homeowner earns from their property in our area.&nbsp;
 
-The median home price in San Diego as of July was $975,000. Let’s say you paid 10% as a down payment. Recently, homes have appreciated rapidly, but we’ll be conservative and say that your home appreciates by 2.7% every year on average. This means that over five years, your home will appreciate by 13.5%.
+The median home price in San Diego as of July was $975,000. Recently, homes have appreciated rapidly, but we’ll be conservative and say that your home appreciates by 2.7% every year on average. This means that over five years, your home will appreciate by 13.5%.
 
 {% include pullquote.html %}
 
 If we take the median home price of $975,000 and multiply it by 13.5%, we find that the average home will appreciate by $131,000 in only five years. You can divide this number by 60 months to see that your home will appreciate roughly $2,200 per month.&nbsp;
 
-In this example, we assumed that 10% was put down when the home was purchased. When we focus on just the principal payment, you’ll end up paying $73,500 over five years, which comes out to approximately $1,200 per month.&nbsp;
+Let's assume you put 10% down when you purchased the home. When we focus on just the principal payment, you’ll end up paying $73,500 over five years, which comes out to approximately $1,200 per month.&nbsp;
 
 **In total, you would be making approximately $3,400 a month in this example just by owning a home.** This is great, but it’s a conservative estimate. In reality, most experts predict homes will appreciate much more than 2.7% every year for the next five years.&nbsp;
 
