@@ -42,4 +42,4 @@ Have you ever been confused by the media showing a lot of contradicting views of
 
 11:46 — Wrapping up&nbsp;
 
-All that being said, I first want to say that if you’re in the market, I recommend you buy now. Secondly, I advise everyone to be well-informed by trusted sources. If you have any questions about this stuff, call or text my team or me anytime. We would love to hear from you\!&nbsp;
+All that being said, I first want to say that if you’re in the market, I recommend you buy now. Secondly, I advise everyone to be well-informed by trusted sources. If you have any questions about this stuff, call or text my team or me anytime. We would love to hear from you\!
