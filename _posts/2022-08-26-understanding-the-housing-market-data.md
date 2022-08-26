@@ -18,6 +18,8 @@ youtube_code: L9ulKQb9sac
 
 {% include excerpt.html %}
 
+{% include pullquote.html %}
+
 Have you ever been confused by the media showing a lot of contradicting views of the housing market? In my opinion, a lot of it shouldn’t be trusted, and it’s important to go back to the original source. I have collected critical market data from trusted sources, and I’m sharing them with you today so you can be informed and updated.&nbsp;
 
 **You can hear all the details by watching the video above or skip to individual topics using these timestamps:&nbsp;**
