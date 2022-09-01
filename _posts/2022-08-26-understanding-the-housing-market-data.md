@@ -18,7 +18,7 @@ youtube_code: L9ulKQb9sac
 
 {% include excerpt.html %}
 
-Have you ever been confused by the media showing a lot of contradicting views of the housing market? In my opinion, a lot of it shouldn’t be trusted, and it’s important to go back to the original source. I have collected critical market data from trusted sources, and I’m sharing them with you today so you can be informed and updated.&nbsp;
+Have you ever been confused by the media's contradicting views of the housing market? In my opinion, a lot of it shouldn’t be trusted, and it’s important to go back to the original source. I have collected some critical market data from trusted sources, and I’m sharing it with you today so you can be informed and updated.&nbsp;
 
 **You can hear all the details by watching the video above or skip to individual topics using these timestamps:&nbsp;**
 
@@ -42,4 +42,4 @@ Have you ever been confused by the media showing a lot of contradicting views of
 
 11:46 — Wrapping up&nbsp;
 
-All that being said, I first want to say that if you’re in the market, I recommend you buy now. Secondly, I advise everyone to be well-informed by trusted sources. If you have any questions about this stuff, call or text my team or me anytime. We would love to hear from you\!&nbsp;
+All that being said, if you’re in the market, I recommend you buy now. Secondly, I advise everyone to be well-informed by trusted sources. If you have any questions, call or text my team or me anytime. We would love to hear from you\!&nbsp;
