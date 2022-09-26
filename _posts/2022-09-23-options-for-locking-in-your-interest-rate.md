@@ -28,6 +28,6 @@ Now let's say you’re under contract. Once you have an accepted offer, lock in 
 
 So what happens if you open an escrow account, lock the rate, and it goes down? It's unusual to see a rate go down from 5.5% to 3%; big jumps are uncommon. However, even if rates fall a quarter of a percent, it could have a major impact on your monthly payment. So what should you do?&nbsp;
 
-First, you can unlock your mortgage after you lock it. However, this option is risky because it can also increase. If you’re concerned about rates falling, **ask your lender about what's called the float down option.** You will pay an additional closing cost, which should be anywhere from a half a point to one point. In return, your rate is only locked from increasing, but it can still fall.&nbsp;
+First, you can unlock your mortgage after you lock it. However, this option is risky because it can also increase. If you’re concerned about rates falling, **ask your lender about a float down option.** You will pay an additional closing cost, which should be anywhere from 0.5% to 1%. In return, your rate is only locked from increasing, but it can still fall.&nbsp;
 
 If you have any more questions, feel free to reach out to me at (619) 333-2556. I look forward to hearing from you soon\!
