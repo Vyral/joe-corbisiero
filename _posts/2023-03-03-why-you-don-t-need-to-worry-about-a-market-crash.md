@@ -30,7 +30,7 @@ As February came to an end, different media outlets started passionately sharing
 
 4:02 — A market crash is unlikely due to low inventory
 
-4:31 — Showing time today is still above than 2019
+4:31 — Showing Time stats are still higher than 2019
 
 5:45 — The unemployment rate is steadily growing&nbsp;
 
