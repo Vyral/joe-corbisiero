@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You’ll Be Amazed by This Fantastic New Program
+title: Buy Your Dream Home With This Fantastic New Program
 date: 2023-03-22 00:00:00
 tags:
   - Real Estate
@@ -25,4 +25,4 @@ This is a basic **down payment assistance program that will give you 20% down.**
 
 For example, for a $600,000 purchase, if you use this program, which is a 20% down payment assistance, you will be spending $750 less every month than you would with an FHA loan.
 
-What's the catch? **Well, there is no catch.** If you have at least $13,000, you can qualify for this loan. You need a verifiable income with a W-2—this doesn't apply to 1089 people. So if you have a pay stub and a job, you can qualify for a loan with downpayment assistance. So if you'd like to know more details, feel free to call me. I would be happy to walk you through the details.
+What's the catch? **Well, there is no catch.** If you have at least $13,000, you can qualify for this loan. You need a verifiable income with a W-2—this doesn't apply to 1089 people. So if you have a pay stub and a job, you can qualify for a loan with downpayment assistance. So if you'd like to know more details, feel free to call or email me. I would be happy to walk you through the details.
