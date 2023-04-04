@@ -20,7 +20,7 @@ youtube_code: lmw7mSQi8_Q
 
 Have you heard the news about the recent bank collapses? If so, you might wonder how that will affect inflation and interest rates. If you are, you’re not alone. Many people worry about this negatively affecting the real estate market, so I am here today to clarify things.&nbsp;
 
-If you haven’t seen the stories, the Silicon Valley bank went out of business. Thankfully, all of the people got their money back. However, there are rumors that more banks will be collapsing soon. Many people are worried about inflation because of this, but you should know that **the Fed is more worried about the banks than inflation.**
+If you haven’t seen the stories, the Silicon Valley Bank went out of business. Thankfully, all of the people got their money back. However, there are rumors that more banks will be collapsing soon. Many people are worried about inflation because of this, but you should know that **the Federal Reserve is more worried about the banks than inflation.**
 
 **{% include pullquote.html %}**
 
