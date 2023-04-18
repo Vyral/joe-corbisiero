@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why House Hacking Is a Great Way To Invest
-date: 2023-03-16 00:00:00
+date: 2023-04-17 00:00:00
 tags:
   - Real Estate
   - Home Buyer Tips
