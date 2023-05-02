@@ -18,9 +18,9 @@ youtube_code: bazG6xC99LQ
 
 {% include excerpt.html %}
 
-Today **I'd like to share with you how my first property became a stepping stone to owning three amazing properties** today. In 2014, I bought my first home in the Midwest for $322,000 with an interest rate of 6.4%, which was quite favorable back then.
+Today, I'd like to share with you how my first property became a stepping stone to owning three amazing properties. In 2014, I bought my first home in the Midwest for $322,000 with an interest rate of 6.4%, which was quite favorable back then.
 
-I lived in the property for two and a half years and eventually sold it for $347,000 without making any improvements or renovations. My initial down payment was $52,000, which I took from my savings account and essentially invested in the property. The $25,000 difference between the purchase price and price I sold it for is known as appreciation.
+I lived in the property for two and a half years and eventually sold it for $347,000 without making any improvements or renovations. My initial down payment was $52,000, which I took from my savings account and essentially invested in the property. The $25,000 difference between the purchase price the and price I sold it for is known as appreciation.
 
 **{% include pullquote.html %}**
 
