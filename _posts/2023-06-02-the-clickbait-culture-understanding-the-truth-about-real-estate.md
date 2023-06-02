@@ -21,9 +21,9 @@ In today's digital age, where information is abundant and accessible, it's cruci
 
 With the rise of platforms like YouTube, content creators are constantly vying for attention and engagement. Unfortunately, this has led to a clickbait culture where sensationalism and drama dominate the headlines. Real estate discussions on YouTube are not exempt from this trend, as creators prioritize attracting views to generate revenue. However, it's essential to look beyond the flashy thumbnails and provocative titles to truly understand the facts.
 
-**{% include pullquote.html %}**
-
 While it may be tempting to believe that real estate is the worst investment one can make, empirical evidence tells a different story. **Numerous studies and analyses have consistently demonstrated the long-term benefits and potential profitability of real estate investments.** By carefully scrutinizing reputable sources and data, we can gain a more accurate understanding of the subject.
+
+**{% include pullquote.html %}**
 
 **It's crucial not to fall into the trap of making broad generalizations based solely on the content found on YouTube or in the news.** The platform's revenue model, which rewards creators based on views, often incentivizes the use of dramatic tactics and clickbait strategies. As viewers, it's important to approach these videos with a critical mindset, understanding that the actual facts may be far removed from the sensationalized content.
 
