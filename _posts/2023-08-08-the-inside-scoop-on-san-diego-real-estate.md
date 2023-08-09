@@ -17,7 +17,7 @@ youtube_code: 3S5fWm0eZD4
 
 {% include excerpt.html %}
 
-Are you curious about the current state of the San Diego real estate market? In this market update, we'll explore the difference between lagging and leading indicators and delve into key statistics that shed light on the demand, inventory, and hot areas in the region. Let's get started!
+Are you curious about the current state of the San Diego real estate market? Today, we'll explore the difference between lagging and leading indicators and delve into key statistics that shed light on the demand, inventory, and hot areas in the region. Let's get started!
 
 Lagging indicators refer to past data, such as the number of homes sold in previous months. While they offer insights into historical trends, they may not provide an accurate picture of the present market conditions. On the other hand, leading indicators focus on current demand, specifically the number of properties pending in the current market. **These leading indicators offer a more real-time view of buyer activity and can help predict future trends.**
 
