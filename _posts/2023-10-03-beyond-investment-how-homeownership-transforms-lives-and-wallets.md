@@ -22,7 +22,7 @@ youtube_code: b-Jg51wyJdE
 
 {% include excerpt.html %}
 
-Owning a home is a significant milestone in life that many of us aspire to achieve. It's not just a financial decision; it's an emotional journey that brings stability, creativity, and a sense of accomplishment. Today, we'll explore the personal experiences of Maria and Joe as homeowners and how they stumbled upon the surprising financial benefits of homeownership.
+Owning a home is a significant milestone in life that many of us aspire to achieve. It's not just a financial decision; it's an emotional journey that brings stability, creativity, and a sense of accomplishment. Today, we'll explore the personal experiences of Maria and James as homeowners and how they stumbled upon the surprising financial benefits of homeownership.
 
 **Feel free to watch the full message above, or use these timestamps that will direct you to various points in the video.**
 
