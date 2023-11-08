@@ -47,9 +47,9 @@ client:
   url: https://www.bestsandiegohomesforsale.com
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: https://corbisiero-home-value.paperform.co
+  first_CTA_URL: https://bestsandiegohomesforsale.com/home-valuation
   second_CTA_text: Home Search
-  second_CTA_URL: https://www.bestsandiegohomesforsale.com/search
+  second_CTA_URL: https://bestsandiegohomesforsale.com/properties/sale
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: What’s Your San Diego Home Worth?
