@@ -63,7 +63,7 @@ second_sidebar_CTA:
     CTA_title2: Looking for a San Diego Home?
     CTA_text2: Search the entire MLS for your San Diego home.
     CTA_link_text2: Search the MLS
-    CTA_url2: https://www.bestsandiegohomesforsale.com/search
+    CTA_url2: https://bestsandiegohomesforsale.com/properties/sale
 lender:
   show_section: false
   header_text: Preferred Lender
