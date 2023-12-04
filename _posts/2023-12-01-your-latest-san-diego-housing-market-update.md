@@ -36,3 +36,5 @@ What’s happening in our housing market? A lot has changed recently, from housi
 9:40 — Inventory is still very low&nbsp;
 
 10:30 — Wrapping things up
+
+If you have any questions about the topic, call or email me. I'm always happy to help.
